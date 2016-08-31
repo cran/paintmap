@@ -1,0 +1,11 @@
+7eec4adc9be3a3d525461f36365c68a3 *DESCRIPTION
+796e8dd3177f12581e6cd74682e83da9 *NAMESPACE
+de47ba756db14cce306a982b916ae15d *R/hello.R
+0a0e09cd5085301a9b94db438ce68fb8 *man/color_matrix.Rd
+34309c605bda35857da583949dcf6301 *man/colour_matrix.Rd
+cd62c16472f5c477bf595f201e65522f *man/inches_tall.Rd
+4b4aaa77dde6e5ca4ce7771e8e06420d *man/inches_wide.Rd
+32625d830e4e2d73a949bb8436f5fad8 *man/lines_between_hm_and_labels.Rd
+d5de4e97d28cd05cd39e556db4b71734 *man/margin_lines.Rd
+57e19690f2264611286e57295d0c4ff7 *man/paintmap-package.Rd
+fd07b13ce04e4cef89dbac7e5cda08a9 *man/paintmap.Rd
